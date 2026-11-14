@@ -1,0 +1,18 @@
+# Repozitár je verejný: obsahuje len kód appky a nástroje.
+# Všetko, čo prezrádza polohu pozemku, dom alebo osoby, patrí na zdieľaný Disk.
+
+# Podklady od Viktora
+*.stp
+*.step
+*.pdf
+
+# Dáta konkrétneho pozemku (hranice, osadenie domu, ortofotá, náhľady)
+data/
+
+# Nástroje
+node_modules/
+
+# Systém
+desktop.ini
+Thumbs.db
+.DS_Store
