@@ -16,3 +16,8 @@ node_modules/
 desktop.ini
 Thumbs.db
 .DS_Store
+
+# Exporty LLS (mračná bodov)
+*.zip
+*.laz
+*.las
